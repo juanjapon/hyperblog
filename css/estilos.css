@@ -2,29 +2,16 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
     font-family: "Courier";
-=======
-    font-family: "Arial";
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
 }
 #cabecera
 {
-    background: #339;
-    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
+    background: url("../imagenes/dragon.png") 10px 10px;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0);
     color: white;
     font-weight: bold;
-    margin: 0;
-    padding: 0.5em;
-}
-#cabecera #tagline
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
->>>>>>> cabecera
+    margin:0;
+    padding: 0.5em 0 0.5em 2em;
 }
 #container
 {
